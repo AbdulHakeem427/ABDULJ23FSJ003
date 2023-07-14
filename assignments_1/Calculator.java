@@ -71,6 +71,18 @@ class   Calculator{
 
 	        return result;
 	    }
+	    
+	    public Integer modulus(String i,String j) {
+			int result=Integer.parseInt(i)%Integer.parseInt(j);
+			if(Integer.parseInt(j)<0){
+					j="1";
+			}
+			
+			
+			System.out.println("The Modulus of "+i+"and"+j+" is..:"+result);
+			
+			return  result;
+		}
 	}
 
 
