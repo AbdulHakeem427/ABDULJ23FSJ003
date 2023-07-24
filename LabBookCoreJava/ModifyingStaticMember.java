@@ -1,6 +1,6 @@
 package LabBookCoreJava;
 
-public class Lab17b {
+public class ModifyingStaticMember {
 	public static void main(String[] args) {
 		Lab17b obj=new Lab17b();
 		obj.modifyStaticMember();
