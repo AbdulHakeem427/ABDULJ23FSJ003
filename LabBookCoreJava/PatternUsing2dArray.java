@@ -1,6 +1,6 @@
 package LabBookCoreJava;
 
-public class Lab10 {
+public class PatternUsing2dArray {
 	    public static void main(String[] args) {
 	        int[][] matrix = new int[4][4];
 	        int count = 1;
