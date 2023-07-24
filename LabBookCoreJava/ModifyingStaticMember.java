@@ -2,7 +2,7 @@ package LabBookCoreJava;
 
 public class ModifyingStaticMember {
 	public static void main(String[] args) {
-		Lab17b obj=new Lab17b();
+		ModifyingStaticMember obj=new ModifyingStaticMember();
 		obj.modifyStaticMember();
 	}
 	private	static int staticValue=30;
