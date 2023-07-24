@@ -2,7 +2,7 @@ package LabBookCoreJava;
 
 import java.util.Scanner;
 
-public class Lab16 {
+public class SearchingElement{
 	    public static void main(String[] args) {
 	        Scanner scanner = new Scanner(System.in);
 
