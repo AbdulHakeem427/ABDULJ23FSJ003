@@ -3,7 +3,7 @@ package LabBookCoreJava;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Lab6 {
+public class ResizingOfArray {
 	public static void main(String[] args) {
 		        // Original array
 		        int[] originalArray = {1, 2, 3, 4, 5};
