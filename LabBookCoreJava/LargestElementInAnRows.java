@@ -1,6 +1,6 @@
 package LabBookCoreJava;
 
-public class Lab20 {
+public class LargestElementInAnRows{
 	    public static void main(String[] args) {
 	        int[][] arr = {
 	            {1, 5, 9},
