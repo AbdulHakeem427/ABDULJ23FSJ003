@@ -1,6 +1,6 @@
 package LabBookCoreJava;
 
-public class Lab15b {
+public class CheckingArmPalinPerfectNumber {
 	    public static void main(String[] args) {
 	        int number = 153; // Replace this with the number you want to check
 	        if (isArmstrongNumber(number)) {
