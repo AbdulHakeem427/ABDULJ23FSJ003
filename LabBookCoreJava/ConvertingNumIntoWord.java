@@ -2,7 +2,7 @@ package LabBookCoreJava;
 
 import java.util.Scanner;
 
-public class Lab18 {
+public class ConvertingNumIntoWord {
 	    private static final String[] units = { "", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine" };
 	    private static final String[] teens = { "ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen" };
 	    private static final String[] tens = { "", "", "twenty", "thirty", "forty", "fifty", "sixty", "seventy", "eighty", "ninety" };
