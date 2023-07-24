@@ -2,7 +2,7 @@ package LabBookCoreJava;
 
 import java.util.Scanner;
 
-public class Lab5 {
+public class CalcAverage{
 	public static void main(String[] args) {
 	calculateAverage();	
 	}
