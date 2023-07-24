@@ -2,7 +2,7 @@ package LabBookCoreJava;
 
 import java.util.Scanner;
 
-public class Lab8 {
+public class LocationOfArray {
 	    public static void main(String[] args) {
 	        Scanner scanner = new Scanner(System.in);
 	        System.out.print("Enter the number of elements in the array: ");
