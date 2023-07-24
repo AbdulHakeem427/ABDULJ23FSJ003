@@ -1,6 +1,6 @@
 package LabBookCoreJava;
 
-public class Lab19 {
+public class ReversingRowsIn2DArray {
 	    public static void main(String[] args) {
 	        int[][] arr = {
 	            {1, 2, 3},
