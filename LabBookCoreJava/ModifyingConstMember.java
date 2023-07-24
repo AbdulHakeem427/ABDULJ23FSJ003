@@ -1,6 +1,6 @@
 package LabBookCoreJava;
 
-public class Lab17a {
+public class ModifyingConstMember{
 	public static void main(String[] args) {
 		
 	}
