@@ -2,7 +2,7 @@ package LabBookCoreJava;
 
 import java.util.Scanner;
 
-public class Lab9 {
+public class ReversingAnArray{
 	  public static void main(String[] args) {
 	        Scanner scanner = new Scanner(System.in);
 
