@@ -1,16 +1,11 @@
 package jdbc;
 
-public class UserDTO {//DTO - Data Transfer Object
-		
+public class UserDTO {//DTO - Data Transfer Object	
 	private int uid;
-	
 	private String uname,upass;
-	
 	private int salary,flag;
-	
 	public UserDTO() {
 			// TODO Auto-generated constructor stub
-	
 	}
 	public UserDTO(int uid, String uname, String upass, int salary, int flag) {		
 		this.uid = uid;
